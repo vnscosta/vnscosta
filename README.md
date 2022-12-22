@@ -4,7 +4,7 @@
 - 🌱 I'm learning **Next.js** and **Node.js**.
 - 🔧 Mastering `.js`, `.ts`, `.html`, `.css`, `.scss`
 - 🔭 Interested about **Javascript Ecosystem**, **UI Design** and **React Native**.
-- ✉️ How to reach me: costa.vns@hotmail.com
+- ✉️ How to reach me: hi@vnscosta.dev
 
 
 <a href="https://www.linkedin.com/in/vnscosta/">
