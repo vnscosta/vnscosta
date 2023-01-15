@@ -2,7 +2,7 @@
 
 - 🏢 I'm currently working as **Software Engineer I** at **idwall**
 - 🌱 I'm learning **Next.js** and **Node.js**.
-- 🔧 Mastering `.js`, `.ts`, `.html`, `.css`, `.scss`
+- 🔧 Mastering `.js`, `.ts`, `.scss`
 - 🔭 Interested about **Javascript Ecosystem**, **UI Design** and **React Native**.
 - ✉️ How to reach me: hi@vnscosta.dev
 
